@@ -33,11 +33,11 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
-   { 
+     { 
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "hhttps://www.rbsdirect.com.br/filestore/0/3/1/1/0/1/1_26face76e922457/1101130_c309139c83b56ef.jpg?w=700"
+      "imagem": "https://www.rbsdirect.com.br/filestore/0/3/1/1/0/1/1_26face76e922457/1101130_c309139c83b56ef.jpg?w=700"
     },
     "mandante": {
       "nome": "Brasil",
@@ -46,7 +46,7 @@
     },
     "visitante": {
       "nome": "Colombia",
-      "estrelas": 3,
+      "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
   }
